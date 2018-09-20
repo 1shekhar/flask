@@ -1,0 +1,23 @@
+{
+	"gammaAccess": {
+		"url": "http://localhost:3000",
+		"userName": "chandrashekhar.bhosale@acellere.com",
+		"password": "admin1234"
+	},
+	"repositories": [{
+		"repository": {
+			"uid": "caef92b33863b8b473430aeb2d3d5191",
+			"projectName": "Python_PythonFlask",
+			"sources": {
+				"baseDir": "$WORKSPACE"
+			}
+		},
+		"dataDir": "/opt/gamma_data/tenants/1532440291108/module_data/caef92b33863b8b473430aeb2d3d5191",
+		"modules": {
+			"codeissues": [{
+					"name": "pylint"
+				}
+			]
+		}
+	}]
+}
